@@ -1,4 +1,4 @@
 rahul_ranjan_small_os
 =====================
 
-A small OS created by Rahul Ranjan (gx.rahul@gmail.com)
+Opearting System created by Rahul Ranjan (gx.rahul@gmail.com).

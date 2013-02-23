@@ -1,4 +1,4 @@
-rahul_ranjan_small_os
+PlankOS
 =====================
 
 Opearting System created by Rahul Ranjan (gx.rahul@gmail.com).

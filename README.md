@@ -1,4 +1,2 @@
-PlanckOS
-=====================
+small os 
 
-Opearting System created by Rahul Ranjan (gx.rahul@gmail.com).
